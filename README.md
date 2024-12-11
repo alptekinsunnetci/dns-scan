@@ -17,4 +17,12 @@ Pingv4 DNS Checker allows you to scan DNS records and subdomains of domain names
 
 This tool is provided by Pingv4.com and maintains its reliability and stability with a closed-source structure. Discover the most efficient and practical way to analyze your DNS infrastructure.
 
-**Legal Notice:** All responsibilities arising from the use of this tool bind the user. Legal liability rests with the user.
+**Legal Notice:** The use of this software is entirely at the user's own risk. The user accepts full legal responsibility for any consequences arising from its use.
+
+### How to Use?
+
+Perform DNS scanning operations easily using simple CLI commands. Example usage:
+
+```bash
+dns-scan.exe --domain=google.com
+```
